@@ -1,0 +1,14 @@
+django
+pillow
+django-admin-interface
+django-crispy-forms
+django-rest-framework
+social-auth-app-django
+asgiref
+dj-database-url
+django-heroku
+gunicorn
+psycopg2
+pytz
+sqlparse
+whitenoise
